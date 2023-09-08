@@ -9,3 +9,4 @@ Recipe
 
 Utilize a gas mixture of 70 nitrous and 30 co2.
 Insert mixture into a whipping siphon.
+Shake and Serve.
