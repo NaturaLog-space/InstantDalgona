@@ -36,3 +36,9 @@ Utilize a gas mixture of 70 nitrous and 30 co2.
 Insert mixture into a whipping siphon.
 Shake and Serve.
 
+
+# Canning Dalgona
+Dalgona mixture is placed into canister for mass production. 
+The common whip cream canister is filled with the dalgona mixture.
+The dalgona mixture is precharged with nitrous 70% and co2 30%.
+
