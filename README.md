@@ -1,7 +1,7 @@
 # Instant Dalgona
 Components:
 - 10-25% Instant Coffee / Matcha / Dried Fruits
-- 38-48% Sugar
+- 38-48% Sugar / Sweetener (Carbohydrate or Protein)(Honey or Stevia or Erythritol or Allulose or Aspartame or AceK or Sucralose or Sugar or Glucose or Fructose or Brazzein, etc)
 - 4-10% Oils/Fats
 - 34-48% Water
 - 0-2% Polysaccharide Thickener (Gums)
