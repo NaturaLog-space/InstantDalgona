@@ -17,8 +17,20 @@ Recipe:
 # Instant Matcha Dalgona
 
 Recipe:
-- 6 grams of Mat
+- 6 grams of Matcha
+- 18 grams Sugar
+- 10 grams Milk
+- 10 grams Cream
+- .1 grams Xanthan Gum
 
+# Instant Fruit Dalgona
+
+Recipe:
+- 6 grams of Freeze Dried Fruit
+- 18 grams Sugar
+- 10 grams Fresh Fruit
+- 20 grams cream
+- .1 grams Xanthan Gum
 
 Utilize a gas mixture of 70 nitrous and 30 co2.
 Insert mixture into a whipping siphon.
