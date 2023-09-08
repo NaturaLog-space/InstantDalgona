@@ -36,7 +36,18 @@ Utilize a gas mixture of 70 nitrous and 30 co2.
 Insert mixture into a whipping siphon.
 Shake and Serve.
 
-
+# Method of Reverse Osmosis Cold Brew and Coffee for Dalgona
+- In a reverse osmosis system pump clarified cold brew to obtain a cold brew concentrate for dalgona.
+- Cold brew concentrate is obtained by high pressure extraction of cold brew.
+- The mixture of 1 gram of coffee per 1 gram of water is utilized to create a cold brew concentrate
+- The mixture is placed into high pressure of approximately 30-120 psi and shaken.
+- The mixture is left to rest for between 1 hour to 1 day with occassional shaking every 4 hours.
+- The concentrate is filtered then added to a reverse osmosis system.
+- The concentrate is utilized for dalgona.
+# Method of Osmotic Diffusion Cold Brew and Coffee for Dalgona
+- Coffee concentrate or cold brew concentrate is added to the absorption pack machinery described here.
+- https://github.com/holdings420/Preservingbiologicalmass/blob/master/README.md
+- The concentrate can be further for an extra thick dalgona.
 # Canning Dalgona
 Dalgona mixture is placed into canister for mass production. 
 The common whip cream canister is filled with the dalgona mixture.
