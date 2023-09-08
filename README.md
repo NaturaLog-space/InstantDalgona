@@ -5,13 +5,21 @@ Recipe:
 - 14-56g of Sugar
 - 8-30g of Milk
 - 8-30g of Cream
-- .1-.3g of Xanthan Gum
+- 1-1.5g of Xanthan Gum
+
+- 10-25% Instant Coffee
+- 38-48% Sugar
+- 4-10% Oils/Fats
+- 34-48% Water
+- 0-2% Polysaccharide Thickener (Gums)
+
+
 
 - 6 grams of Instant Coffee
 - 18 grams of Sugar
 - 10 grams of Milk
 - 10 grams of Cream
-- .1 gram of Xanthan Gum
+- 1 gram of Xanthan Gum
 
 
 # Instant Matcha Dalgona
