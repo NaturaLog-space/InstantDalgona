@@ -42,3 +42,7 @@ Dalgona mixture is placed into canister for mass production.
 The common whip cream canister is filled with the dalgona mixture.
 The dalgona mixture is precharged with nitrous 70% and co2 30%.
 
+https://patents.google.com/patent/JPH0777543B2/en?q=(aerosol+whip+cream)&oq=aerosol+whip+cream
+
+
+
