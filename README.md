@@ -48,6 +48,19 @@ Shake and Serve.
 - Coffee concentrate or cold brew concentrate is added to the absorption pack machinery described here.
 - https://github.com/holdings420/Preservingbiologicalmass/blob/master/README.md
 - The concentrate can be further for an extra thick dalgona.
+
+# Method of Clarifying Coffee
+
+- On a mesh strainer or glass frit add a layer of glass filter or paper filter and 4mm of DE powder on top of the fiber.
+- - Add water to cake on the DE onto the filter.
+  - - Apply pressure of 10-40 psi down or pull a vacuum.
+    - - Add coffee and filter to clarify the coffee.
+     
+      - ## Alternate method
+      - - mix coffee with agar or gelatin
+        - - set the mixture
+          - - freeze the mixture
+            - - Melt the frozen gel on a filter to clarify. 
 # Canning Dalgona
 Dalgona mixture is placed into canister for mass production. 
 The common whip cream canister is filled with the dalgona mixture.
