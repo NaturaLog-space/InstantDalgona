@@ -37,6 +37,7 @@ Insert mixture into a whipping siphon.
 Shake and Serve.
 
 # Method of Reverse Osmosis Cold Brew and Coffee for Dalgona
+- temperature -10C to 40C
 - In a reverse osmosis system pump clarified cold brew to obtain a cold brew concentrate for dalgona.
 - Cold brew concentrate is obtained by high pressure extraction of cold brew.
 - The mixture of 1 gram of coffee per 1 gram of water is utilized to create a cold brew concentrate
