@@ -56,7 +56,7 @@ Shake and Serve.
 
 - On a mesh strainer or glass frit add a layer of glass filter or paper filter and 4mm of DE powder on top of the fiber.
 - Add water to cake on the DE onto the filter.
-- Apply pressure of 10-40 psi down or pull a vacuum using an obvious vacuum pump.
+- Apply pressure of 10-40 psi down with an air pump or water pump or pull a vacuum using an obvious rotary vane vacuum pump.
 - Add coffee and filter to clarify the coffee.
      
 ## Alternate method
