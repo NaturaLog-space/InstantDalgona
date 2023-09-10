@@ -44,6 +44,8 @@ Shake and Serve.
 - The mixture is placed into high pressure of approximately 30-120 psi and shaken.
 - The mixture is left to rest for between 1 hour to 1 day with occassional shaking every 4 hours.
 - The concentrate is filtered then added to a reverse osmosis system.
+- https://patents.google.com/patent/JP2003144052A/en?q=(coffee+reverse+osmosis)&oq=coffee+reverse+osmosis
+- Use a gear pump/rotary vane pump/reciprocating pump with teflon lining for pressing coffee into the filter.
 - The concentrate is utilized for dalgona.
 # Method of Osmotic Diffusion Cold Brew and Coffee for Dalgona
 - Coffee concentrate or cold brew concentrate is added to the absorption pack machinery described here.
