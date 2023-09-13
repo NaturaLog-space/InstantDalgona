@@ -28,8 +28,8 @@ Recipe:
 - 18 grams of Sugar
 - 10 grams of Milk
 - 10 grams of Cream
-- .1 - .4 gram cinnamon
-- .1 - .4 gram nutmeg
+- .1 - .5 gram cinnamon
+- .1 - .5 gram nutmeg
 - .1 - .4 gram cloves
 - .1 - .4 gram allspice
 - .1 - .4 gram ginger
