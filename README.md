@@ -22,6 +22,14 @@ Recipe:
 - 8 grams of Nutella
 - 1 gram of Xanthan Gum
 
+# Instant Caramel Dalgona
+
+Recipe:
+- 8 grams of Instant Coffee
+- 28 grams of Caramel
+- 18 grams of Milk
+- 1 gram of Xanthan Gum
+
 # Instant Pumpkin Spice Dalgona
 Recipe:
 - 6 grams of Instant Coffee
