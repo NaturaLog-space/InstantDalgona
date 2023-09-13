@@ -35,6 +35,16 @@ Recipe:
 - .1 - .4 gram ginger
 - 1 gram of Xanthan Gum
 
+or
+
+
+- 6 grams of Instant Coffee
+- 18 grams of Sugar
+- 10 grams of Milk
+- 10 grams of Cream
+- .4-2 grams Pumpkin Spice
+- 1 gram of Xanthan Gum
+
 # Instant Matcha Dalgona
 
 Recipe:
