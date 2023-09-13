@@ -21,6 +21,20 @@ Recipe:
 - 24 grams of Milk
 - 8 grams of Nutella
 - 1 gram of Xanthan Gum
+
+# Instant Pumpkin Spice Dalgona
+Recipe:
+- 6 grams of Instant Coffee
+- 18 grams of Sugar
+- 10 grams of Milk
+- 10 grams of Cream
+- .1 - .4 gram cinnamon
+- .1 - .4 gram nutmeg
+- .1 - .4 gram cloves
+- .1 - .4 gram allspice
+- .1 - .4 gram ginger
+- 1 gram of Xanthan Gum
+
 # Instant Matcha Dalgona
 
 Recipe:
