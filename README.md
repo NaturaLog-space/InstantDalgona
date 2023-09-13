@@ -13,7 +13,14 @@ Recipe:
 - 10 grams of Cream
 - 1 gram of Xanthan Gum
 
+# Instant Hazelnut Dalgona
 
+Recipe:
+- 8 grams of Instant Coffee
+- 24 grams of Sugar
+- 24 grams of Milk
+- 8 grams of Nutella
+- 1 gram of Xanthan Gum
 # Instant Matcha Dalgona
 
 Recipe:
