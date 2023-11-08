@@ -120,5 +120,13 @@ The dalgona mixture is precharged with nitrous 70% and co2 30%.
 
 https://patents.google.com/patent/JPH0777543B2/en?q=(aerosol+whip+cream)&oq=aerosol+whip+cream
 
+## Espresso Method
+- Fresh coffee tastes best
+- Instant coffee stored in water is double oxidized and stale.
+- Use an espresso machine and pull an espresso 2x-4x slower than a normal espresso.
+- Pull the espresso only half way to get a concentrated espresso. The crema should remind you of the dalgona. More crema less liquid is more dalgona like.
+- Add espresso to whip cream canister with sugar and nutella for the freshest hazelnut dalgona.
+
+
 
 
