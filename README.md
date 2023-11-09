@@ -126,6 +126,7 @@ https://patents.google.com/patent/JPH0777543B2/en?q=(aerosol+whip+cream)&oq=aero
 - Use an espresso machine and pull an espresso 2x-4x slower than a normal espresso.
 - Pull the espresso only half way to get a concentrated espresso. The crema should remind you of the dalgona. More crema less liquid is more dalgona like.
 - Add espresso to whip cream canister with sugar and nutella for the freshest hazelnut dalgona.
+- https://www.youtube.com/watch?v=dbVIJkQ2iwc
 
 
 
